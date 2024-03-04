@@ -1,0 +1,9 @@
+read x ; read y  
+z = x + y * 648 / 274 - 3 + -1 * 4
+goto a 
+endpoint: end 
+a: goto j 
+b: goto a 
+j: goto endpoint 
+$$ 
+
